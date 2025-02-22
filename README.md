@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there! 👋
+## Hi there! 👋
 
 Welcome to my GitHub profile! I'm a **Research Analyst** specializing in **finance and data analysis**. I have a strong interest in leveraging **data science, AI, and automation** to gain insights and optimize processes in the financial sector.
 
